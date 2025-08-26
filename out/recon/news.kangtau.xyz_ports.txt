@@ -1,0 +1,57 @@
+                                               
+                      .__              .__________         __   
+  ____   _____   ____ |__| ______ ____ |__\_____  \  _____/  |_ 
+ /  _ \ /     \ /    \|  |/  ___// ___\|  | _(__  < /    \   __\
+(  <_> )  Y Y  \   |  \  |\___ \\  \___|  |/       \   |  \  |  
+ \____/|__|_|  /___|  /__/____  >\___  >__/______  /___|  /__|  
+             \/     \/        \/     \/          \/     \/ 
+    Unveiling the Hidden Layers of the Web.     
+
+
+└➤ Version      : 1.0.5
+└➤ Creator      : Spyboy
+└➤ Twitter      : https://spyboy.in/twitter
+└➤ Discord      : https://spyboy.in/Discord
+└➤ Github       : https://github.com/spyboy-productions/omnisci3nt
+
+____________________________________________________________________________
+
+Target: news.kangtau.xyz
+
+[✓] Valid target. Proceeding with reconnaissance...
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |R|e|c|o|n| |S|t|a|r|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    
+
+[~] Starting Port Scan on news.kangtau.xyz...
+
+PORT     STATE   SERVICE
+-----    ------  --------
+21   /tcp  open    ftp
+22   /tcp  open    ssh
+25   /tcp  open    smtp
+70   /tcp  open    gopher
+80   /tcp  open    http
+587  /tcp  open    submission
+993  /tcp  open    imaps
+995  /tcp  open    pop3s
+2077 /tcp  open    unknown
+2078 /tcp  open    unknown
+2080 /tcp  open    unknown
+2082 /tcp  open    unknown
+2083 /tcp  open    unknown
+2095 /tcp  open    unknown
+2096 /tcp  open    unknown
+3306 /tcp  open    mysql
+
+[✓] Scan completed! Open ports: 16
+
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    |R|e|c|o|n| |c|o|m|p|l|e|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    
+[+] Date: 2025-08-26
+[+] Time taken: 131.90 seconds

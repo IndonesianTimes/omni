@@ -1,0 +1,57 @@
+                                               
+                      .__              .__________         __   
+  ____   _____   ____ |__| ______ ____ |__\_____  \  _____/  |_ 
+ /  _ \ /     \ /    \|  |/  ___// ___\|  | _(__  < /    \   __\
+(  <_> )  Y Y  \   |  \  |\___ \\  \___|  |/       \   |  \  |  
+ \____/|__|_|  /___|  /__/____  >\___  >__/______  /___|  /__|  
+             \/     \/        \/     \/          \/     \/ 
+    Unveiling the Hidden Layers of the Web.     
+
+
+└➤ Version      : 1.0.5
+└➤ Creator      : Spyboy
+└➤ Twitter      : https://spyboy.in/twitter
+└➤ Discord      : https://spyboy.in/Discord
+└➤ Github       : https://github.com/spyboy-productions/omnisci3nt
+
+____________________________________________________________________________
+
+Target: news.kangtau.xyz
+
+[✓] Valid target. Proceeding with reconnaissance...
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |R|e|c|o|n| |S|t|a|r|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    
+[i] Created config.ini - Add your Free API keys to enable premium sources
+
+[*] Starting subdomain enumeration...
+
+[i] Checking crt.sh...
+[-] Error fetching https://crt.sh/?q=news.kangtau.xyz: 503 Server Error: Service Unavailable for url: https://crt.sh/?q=news.kangtau.xyz
+
+[-] crt.sh found nothing
+
+[i] Checking RapidDNS...
+
+[-] RapidDNS found nothing
+
+[i] Checking AnubisDB...
+[-] AnubisDB error: Expecting value: line 1 column 1 (char 0)
+
+[i] VirusTotal skipped - Add API key to config.ini to enable
+
+[i] SecurityTrails skipped - Add API key to config.ini to enable
+
+[*] Total unique subdomains found: 0
+[!] Results saved to news.kangtau.xyz-subdomains.txt
+[*] Completed in 4.86 seconds
+
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    |R|e|c|o|n| |c|o|m|p|l|e|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    
+[+] Date: 2025-08-26
+[+] Time taken: 4.86 seconds

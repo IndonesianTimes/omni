@@ -1,0 +1,35 @@
+id: teamviewer-phish
+
+info:
+  name: teamviewer phishing Detection
+  author: rxerium
+  severity: info
+  description: |
+    A teamviewer phishing website was detected
+  reference:
+    - https://teamviewer.com
+  metadata:
+    max-request: 1
+  tags: phishing,teamviewer,osint
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    host-redirects: true
+    max-redirects: 2
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'TeamViewer – The Remote Connectivity Software'
+
+      - type: status
+        status:
+          - 200
+
+      - type: dsl
+        dsl:
+          - '!contains(host,"teamviewer.com")'
+# digest: 490a0046304402205744ba23217855e2418aab1a9f2c18758593a45112d778e1472e8e7e0f8e0bb5022039e7d629f3ed2ce33b8e05cbfb936e274895ce14e899848015c5c27b11a24688:922c64590222798bb761d5b6d8e72950

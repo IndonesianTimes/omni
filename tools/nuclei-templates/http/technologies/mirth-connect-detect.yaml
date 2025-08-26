@@ -1,0 +1,31 @@
+id: mirth-connect-detect
+
+info:
+  name: Mirth Connect Admin Panel - Detect
+  author: rxerium
+  severity: info
+  description: |
+    Detects Mirth Connect Administrator panel.
+  metadata:
+    verified: true
+    max-request: 1
+    product: mirth_connect
+    shodan-query: title:"mirth connect administrator"
+  tags: mirth-connect,tech,detect
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "<title>Mirth Connect Administrator</title>"
+
+      - type: status
+        status:
+          - 200
+# digest: 490a004630440220751d299927a03253f0d6c5812652f9888e7f8f1ceac2a7e7279c09d335e50311022040dc0bf4e41c8b17f244035519aed48978640496baebc8865e6c80a585373b9e:922c64590222798bb761d5b6d8e72950

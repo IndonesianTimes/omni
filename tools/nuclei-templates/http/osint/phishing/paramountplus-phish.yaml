@@ -1,0 +1,35 @@
+id: paramountplus-phish
+
+info:
+  name: paramountplus phishing Detection
+  author: rxerium
+  severity: info
+  description: |
+    A paramountplus phishing website was detected
+  reference:
+    - https://paramountplus.com
+  metadata:
+    max-request: 1
+  tags: phishing,paramountplus,osint
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    host-redirects: true
+    max-redirects: 2
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'Paramount+ United Kingdom - Stream Blockbusters, New Originals and Hit Shows'
+
+      - type: status
+        status:
+          - 200
+
+      - type: dsl
+        dsl:
+          - '!contains(host,"paramountplus.com")'
+# digest: 490a00463044022002c9197310b18ce0c8dc504f5066042f285e7595a8d53c8902aca4383b31efa002202e947adff2f258eb59c8b864e212fa7eea5f44e6c96ba1ad796cf6d9ee9db145:922c64590222798bb761d5b6d8e72950

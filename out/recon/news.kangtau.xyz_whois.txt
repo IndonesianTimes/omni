@@ -1,0 +1,75 @@
+                                               
+                      .__              .__________         __   
+  ____   _____   ____ |__| ______ ____ |__\_____  \  _____/  |_ 
+ /  _ \ /     \ /    \|  |/  ___// ___\|  | _(__  < /    \   __\
+(  <_> )  Y Y  \   |  \  |\___ \\  \___|  |/       \   |  \  |  
+ \____/|__|_|  /___|  /__/____  >\___  >__/______  /___|  /__|  
+             \/     \/        \/     \/          \/     \/ 
+    Unveiling the Hidden Layers of the Web.     
+
+
+└➤ Version      : 1.0.5
+└➤ Creator      : Spyboy
+└➤ Twitter      : https://spyboy.in/twitter
+└➤ Discord      : https://spyboy.in/Discord
+└➤ Github       : https://github.com/spyboy-productions/omnisci3nt
+
+____________________________________________________________________________
+
+Target: news.kangtau.xyz
+
+[✓] Valid target. Proceeding with reconnaissance...
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |R|e|c|o|n| |S|t|a|r|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    
+
+[~] Whois :
+
+{
+  "domain_name": "KANGTAU.XYZ",
+  "registrar": "GoDaddy.com, LLC",
+  "registrar_url": [
+    "https://www.godaddy.com/",
+    "https://www.godaddy.com"
+  ],
+  "reseller": null,
+  "whois_server": "whois.godaddy.com",
+  "referral_url": null,
+  "updated_date": [
+    "2025-06-24 16:09:32",
+    "2025-05-09 13:58:11"
+  ],
+  "creation_date": "2025-05-09 13:58:11",
+  "expiration_date": "2026-05-09 23:59:59",
+  "name_servers": [
+    "NS21.DOMAINCONTROL.COM",
+    "NS22.DOMAINCONTROL.COM"
+  ],
+  "status": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "emails": "abuse@godaddy.com",
+  "dnssec": "unsigned",
+  "name": "Registration Private",
+  "org": "Domains By Proxy, LLC",
+  "address": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "city": "Tempe",
+  "state": "Arizona",
+  "registrant_postal_code": "85281",
+  "country": "US"
+}
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    |R|e|c|o|n| |c|o|m|p|l|e|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    
+[+] Date: 2025-08-26
+[+] Time taken: 0.81 seconds

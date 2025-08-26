@@ -1,0 +1,32 @@
+id: zammad-helpdesk-panel
+
+info:
+  name: Zammad Helpdesk Panel - Detect
+  author: righettod
+  severity: info
+  description: |
+    Zammad is an open source helpdesk and customer support system that provides ticket management, live chat, and knowledge base functionality. This template detects exposed Zammad installations.
+  reference:
+    - https://github.com/zammad/zammad
+    - https://zammad.org/
+  metadata:
+    verified: true
+    max-request: 1
+    vendor: zammad
+    product: zammad
+    shodan-query: http.title:"Zammad Helpdesk"
+    fofa-query: title="Zammad Helpdesk"
+  tags: panel,zammad,detect,helpdesk,ticketing
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}"
+
+    matchers:
+      - type: dsl
+        dsl:
+          - 'status_code == 200'
+          - 'contains_any(to_lower(body), "<title>zammad helpdesk</title>", "zammad_form_script")'
+        condition: and
+# digest: 490a0046304402205fa39fd45491752be85f0acb2d01e730408cc70c273f2a3f2540a77e08011ff1022018bacdab1bb4f84b00543bc1a2e25dae9dd161289de36bd8f1db148807a157a2:922c64590222798bb761d5b6d8e72950

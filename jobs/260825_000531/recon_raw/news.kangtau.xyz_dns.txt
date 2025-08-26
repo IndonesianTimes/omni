@@ -1,0 +1,38 @@
+                                               
+                      .__              .__________         __   
+  ____   _____   ____ |__| ______ ____ |__\_____  \  _____/  |_ 
+ /  _ \ /     \ /    \|  |/  ___// ___\|  | _(__  < /    \   __\
+(  <_> )  Y Y  \   |  \  |\___ \\  \___|  |/       \   |  \  |  
+ \____/|__|_|  /___|  /__/____  >\___  >__/______  /___|  /__|  
+             \/     \/        \/     \/          \/     \/ 
+    Unveiling the Hidden Layers of the Web.     
+
+
+└➤ Version      : 1.0.5
+└➤ Creator      : Spyboy
+└➤ Twitter      : https://spyboy.in/twitter
+└➤ Discord      : https://spyboy.in/Discord
+└➤ Github       : https://github.com/spyboy-productions/omnisci3nt
+
+____________________________________________________________________________
+
+Target: news.kangtau.xyz
+
+[✓] Valid target. Proceeding with reconnaissance...
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |R|e|c|o|n| |S|t|a|r|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    
+[+] IP Address: 184.168.111.173
+
+[~] Starting DNS Enumeration...
+
+[+] A: 184.168.111.173
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    |R|e|c|o|n| |c|o|m|p|l|e|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    
+[+] Date: 2025-08-26
+[+] Time taken: 0.24 seconds

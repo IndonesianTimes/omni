@@ -1,0 +1,5 @@
+http://example.com
+http://news.kangtau.xyz
+http://news.kangtau.xyzhttps://example.com
+https://example.com
+https://news.kangtau.xyz

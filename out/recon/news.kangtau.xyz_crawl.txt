@@ -1,0 +1,124 @@
+                                               
+                      .__              .__________         __   
+  ____   _____   ____ |__| ______ ____ |__\_____  \  _____/  |_ 
+ /  _ \ /     \ /    \|  |/  ___// ___\|  | _(__  < /    \   __\
+(  <_> )  Y Y  \   |  \  |\___ \\  \___|  |/       \   |  \  |  
+ \____/|__|_|  /___|  /__/____  >\___  >__/______  /___|  /__|  
+             \/     \/        \/     \/          \/     \/ 
+    Unveiling the Hidden Layers of the Web.     
+
+
+└➤ Version      : 1.0.5
+└➤ Creator      : Spyboy
+└➤ Twitter      : https://spyboy.in/twitter
+└➤ Discord      : https://spyboy.in/Discord
+└➤ Github       : https://github.com/spyboy-productions/omnisci3nt
+
+____________________________________________________________________________
+
+Target: news.kangtau.xyz
+
+[✓] Valid target. Proceeding with reconnaissance...
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |R|e|c|o|n| |S|t|a|r|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+
+    
+
+[~] Web Crawler :
+
+[+] JS Files:
+https://news.kangtau.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+https://news.kangtau.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+https://www.googletagmanager.com/gtag/js?id=G-GRCV6P9YM2
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/slick/slick.min.js?ver=1.8.1
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/js-marquee/jquery.marquee.min.js?ver=1.6.0
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/js/navigation.js?ver=1.3.16
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/jquery-cookie/jquery-cookie.js?ver=1.4.1
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/js/theme.js?ver=1.3.16
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/waypoint/jquery.waypoint.min.js?ver=4.0.1
+
+[+]CSS Files:
+https://news.kangtau.xyz/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/fontawesome/css/all.min.css?ver=5.15.3
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/fontawesome-6/css/all.min.css?ver=6.5.1
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/lib/slick/slick.css?ver=1.8.1
+https://news.kangtau.xyz/wp-content/fonts/5fe43a6625091d97fb7c2d6b8ddd294e.css
+https://news.kangtau.xyz/wp-content/themes/newsmatic/style.css?ver=1.3.16
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/css/main.css?ver=1.3.16
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/css/loader.css?ver=1.3.16
+https://news.kangtau.xyz/wp-content/themes/newsmatic/assets/css/responsive.css?ver=1.3.16
+
+[+] HTML Files:
+
+[+] PHP Files:
+
+[+] Image Files:
+
+[+] Internal Links:
+https://news.kangtau.xyz
+https://news.kangtau.xyz/news/category/teknologi/
+https://news.kangtau.xyz/news/remaja-melek-digital-kangtau89-buka-tips-jitu-jaga-data-pribadi-di-era-online/#comments
+https://news.kangtau.xyz/news/kangtau89-bongkar-strategi-ampuh-pulihkan-reputasi-digital-dari-kasus-nyata/
+https://news.kangtau.xyz/news/analisis-return-to-player-rtp-pragmatic-play-menjawab-pertanyaan-data-rtp-harian-untuk-30-juni-2025/
+https://news.kangtau.xyz/news/layanan-publik-gratis-di-hari-nasional-kangtau89-bahas-dampak-sosial-ekonomi-yang-jarang-terungkap/
+https://news.kangtau.xyz/news/startup-teknologi-bangkitkan-ekonomi-kolaborasi-epik-lawan-pengangguran-versi-kangtau89/
+https://news.kangtau.xyz/news/bisakah-ai-membaca-pola-permainan-untuk-meningkatkan-peluang-menang-studi-kasus-game-pg-soft/
+https://news.kangtau.xyz/news/virtual-reality-mengubah-lanskap-pendidikan-jarak-jauh-benarkah-efektif/
+https://news.kangtau.xyz/news/category/data-statistik/data-rtp-harian/
+https://news.kangtau.xyz/news/tren-keamanan-siber-2025-kangtau89-rekomendasikan-cara-aman-bagi-pengguna-digital/
+https://news.kangtau.xyz/author/admin/
+https://news.kangtau.xyz/news/category/teknologi/ai-machine-learning/
+https://news.kangtau.xyz/privacy-policy/
+https://news.kangtau.xyz/news/virtual-reality-mengubah-lanskap-pendidikan-jarak-jauh-benarkah-efektif/#comments
+https://news.kangtau.xyz/news/kangtau89-ungkap-layanan-publik-gratis-yang-mengubah-hidup-cari-tahu-dampaknya-di-momen-nasional/
+https://news.kangtau.xyz/news/ai-dan-privasi-di-balik-layar-era-pengawasan-digital/
+https://news.kangtau.xyz/news/category/data-statistik/
+https://news.kangtau.xyz/news/ai-dan-privasi-di-balik-layar-era-pengawasan-digital/#comments
+https://news.kangtau.xyz/news/kangtau89-bongkar-strategi-ampuh-pulihkan-reputasi-digital-dari-kasus-nyata/#comments
+https://news.kangtau.xyz/editorial-policy-pedoman-redaksi/
+https://news.kangtau.xyz/news/tren-keamanan-siber-2025-kangtau89-rekomendasikan-cara-aman-bagi-pengguna-digital/#comments
+https://news.kangtau.xyz/page/2/
+https://news.kangtau.xyz/news/panduan-praktis-kangtau89-cara-cerdas-mengelola-krisis-komunikasi-di-media-sosial/
+https://news.kangtau.xyz/news/
+https://news.kangtau.xyz/news/tantangan-peluang-digitalisasi-pendidikan-inspirasi-daerah-terpencil-versi-kangtau89/#comments
+https://news.kangtau.xyz/news/akses-layanan-publik-makin-mudah-lihat-cara-komunitas-lokal-berinovasi-bareng-kangtau89/
+https://news.kangtau.xyz/news/panduan-praktis-kangtau89-cara-cerdas-mengelola-krisis-komunikasi-di-media-sosial/#comments
+https://news.kangtau.xyz/news/layanan-publik-gratis-di-hari-nasional-kangtau89-bahas-dampak-sosial-ekonomi-yang-jarang-terungkap/#comments
+https://news.kangtau.xyz/news/tantangan-peluang-digitalisasi-pendidikan-inspirasi-daerah-terpencil-versi-kangtau89/
+https://news.kangtau.xyz?newsmaticargs=custom&posts=random
+https://news.kangtau.xyz/news/influencer-kebijakan-publik-kangtau89-ungkap-bagaimana-opini-publik-dibentuk-di-era-digital/
+https://news.kangtau.xyz/news/category/sosial-layanan-publik/
+https://news.kangtau.xyz/
+https://news.kangtau.xyz/news/category/berita-game/game-online-terbaru/
+https://news.kangtau.xyz/news/regulasi-energi-baru-usaha-kecil-menengah-wajib-siap-ini-analisis-kangtau89/
+https://news.kangtau.xyz/about-us/
+https://news.kangtau.xyz/news/category/regulasi-keamanan/
+https://news.kangtau.xyz/news/influencer-kebijakan-publik-kangtau89-ungkap-bagaimana-opini-publik-dibentuk-di-era-digital/#comments
+https://news.kangtau.xyz/news/category/berita-game/
+https://news.kangtau.xyz/contact/
+https://news.kangtau.xyz/terms-of-service/
+https://news.kangtau.xyz/news/regulasi-energi-baru-usaha-kecil-menengah-wajib-siap-ini-analisis-kangtau89/#comments
+https://news.kangtau.xyz/page/3/
+https://news.kangtau.xyz/news/remaja-melek-digital-kangtau89-buka-tips-jitu-jaga-data-pribadi-di-era-online/
+https://news.kangtau.xyz/news/category/opini-tren/
+
+[+] External Links:
+javascript:void(0);
+
+Failed to fetch directory. Status code: 404
+
+[+] Total JS Files: 9
+[+] Total CSS Files: 9
+[+] Total HTML Files: 0
+[+] Total PHP Files: 0
+[+] Total Image Files: 0
+[+] Total Internal Links: 46
+[+] Total External Links: 1
+
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    |R|e|c|o|n| |c|o|m|p|l|e|t|e|d|
+    +-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+
+    
+[+] Date: 2025-08-26
+[+] Time taken: 2.07 seconds
